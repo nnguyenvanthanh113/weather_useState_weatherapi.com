@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987078992446",
+    "project_id": "blocweather",
+    "storage_bucket": "blocweather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987078992446:android:799d38de08a468ad8f676f",
+        "android_client_info": {
+          "package_name": "com.example.bloc_weather_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987078992446-ao19dn344ggk2p8ats2tmfgmeltn24pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHa_q20BPdF7dI0OQI7kR4vnum5BJn5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987078992446-ao19dn344ggk2p8ats2tmfgmeltn24pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
