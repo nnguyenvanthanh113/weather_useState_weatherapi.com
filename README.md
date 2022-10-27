@@ -1,4 +1,4 @@
-# Ứng dụng xem thời tiết (nhiệt độ/độ ẩm/gió/mây/dự báo 7 ngày tiếp theo )
+:fire:  Ứng dụng xem thời tiết (nhiệt độ/độ ẩm/gió/mây/dự báo 7 ngày tiếp theo )
 
 A new Flutter project.
 
@@ -13,6 +13,14 @@ A new Flutter project.
 •	google_sign_in: ^5.4.1
 
 •	cloud_firestore: ^3.4.8
+
+:heavy_check_mark: Một vài chức năng chính
+
+-	Đăng nhập/ đăng ký với gmail.
+
+-	Làm việc với firebase.
+
+-	Kết nối API với openweatherapi.com
 
 
 ![image](https://user-images.githubusercontent.com/46096171/198328537-4f35c357-318c-4962-990e-0511076b813d.jpg)
