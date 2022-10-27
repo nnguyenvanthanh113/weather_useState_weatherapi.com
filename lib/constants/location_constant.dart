@@ -5,5 +5,5 @@ class LocationConstant {
   static String location = 'Nha Trang';
   static String searchApi =
       'http://api.weatherapi.com/v1/forecast.json?key=' + key + '&days=7&q=';
-  static String backgroud = Colors.white as String;
+  static String background = Colors.white as String;
 }
