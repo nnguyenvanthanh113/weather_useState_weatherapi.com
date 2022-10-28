@@ -1,6 +1,6 @@
 :fire:  Ứng dụng xem thời tiết (nhiệt độ/độ ẩm/gió/mây/dự báo 7 ngày tiếp theo )
 
-A new Flutter project.
+
 
 ## Tính năng
 
